@@ -197,6 +197,8 @@ body {
   --ribbon-background-collapsed: var(--canvas);
   --status-bar-background: var(--surface);
   --nav-item-background-hover: var(--hover);
+  --nav-item-background-active: var(--wash);
+  --nav-item-color-active: var(--teal-text);
   --nav-item-background-selected: var(--wash);
   --nav-item-color-selected: var(--teal-text);
   --nav-indentation-guide-color: var(--hairline);
