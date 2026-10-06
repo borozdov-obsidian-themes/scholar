@@ -33,10 +33,14 @@ paper, and dark **Study**, the same desk after the lamps come on. Quiet hairline
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Scholar**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Scholar** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/scholar/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Scholar/`, then choose Borozdov Scholar under
 Settings → Appearance → Themes.
@@ -50,5 +54,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Веллум» — стол исследователя
 на тёплой бумаге, и тёмный «Кабинет» — тот же стол при зажжённых лампах. Тонкие линейки,
 спокойный шрифт весов 400–500, мягкие карточки 16px и один глубокий бирюзовый для того, что
-вы выбираете. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
-Borozdov Scholar → Установить и применить.
+вы выбираете. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Scholar в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
